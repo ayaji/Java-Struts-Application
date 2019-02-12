@@ -1,4 +1,6 @@
-______________________________________________________________________________
+# Developed an e-commerce application for digital gadgets using Java Struts, JSP, Python, JS, HTML, CSS, MySQL and AJAX which had three user modes (customer, Salesman and Store manager) with specific accessibility. 
+# Performed analytics, accessed Twitter API and Google charts API to show advertisements and bar charts on customer transactions.  
+____________________________________________________________________________
 
 SMART PORTABLES User Document
 ______________________________________________________________________________
@@ -11,13 +13,13 @@ RUN the program:
 5. Start the MySQL database with database name as smartportables and table names as users and orderdetails.
 6. Products are fetched from Database
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 Note:
 
 To compile Java files, I use this command:
 
 javac -cp "C:/tommy/tomcat-7.0.34-preconfigured/apache-tomcat-7.0.34/lib/mongo-java-driver-3.2.2.jar;C:\tommy\tomcat-7.0.34-preconfigured\apache-tomcat-7.0.34\lib\servlet-api.jar;C:\tommy\tomcat-7.0.34-preconfigured\apache-tomcat-7.0.34\lib\mysql-connector-java-5.1.23-bin.jar;C:\tommy\tomcat-7.0.34-preconfigured\apache-tomcat-7.0.34\lib\gson-2.6.2.jar;" *********.java
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 Role Information
 ______________________________________________________________________________
 There are three ROLES:
