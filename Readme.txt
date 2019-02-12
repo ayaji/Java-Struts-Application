@@ -1,6 +1,6 @@
 ______________________________________________________________________________
 
-SMART PORTABLES User Document - Assignment 4
+SMART PORTABLES User Document
 ______________________________________________________________________________
 RUN the program:
 
