@@ -1,4 +1,4 @@
-# Developed an e-commerce application for digital gadgets using Java Struts, JSP, Python, JS, HTML, CSS, MySQL and AJAX which had three user modes (customer, Salesman and Store manager) with specific accessibility. 
+# Developed an e-commerce application for digital gadgets called "SmartPortables" using Java Struts, JSP, Python, JS, HTML, CSS, MySQL and AJAX which had three user modes (customer, Salesman and Store manager) with specific accessibility. 
 # Performed analytics, accessed Twitter API and Google charts API to show advertisements and bar charts on customer transactions.  
 ____________________________________________________________________________
 
