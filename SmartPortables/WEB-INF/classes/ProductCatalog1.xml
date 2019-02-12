@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+
+<!--smart watches-->
+
+    <product id="TV991">
+        <imageUrl>images/smartwatch.png</imageUrl>
+        <name>Apple</name>        
+        <price>200.99</price>
+		<description>I Watch</description>
+		<displayUnder>smartwatchproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/bat1.png</aimageUrl>
+				<aname>Celron</aname>
+				<aId>A0011</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat2.png</aimageUrl>
+				<aname>CelronUltra</aname>
+				<aId>A0012</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat3.png</aimageUrl>
+				<aname>CelronDigi</aname>
+				<aId>A0013</aId>
+				<aprice>1.99</aprice>
+				<adescription>WatchBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat4.png</aimageUrl>
+				<aname>Sony</aname>
+				<aId>A0014</aId>
+				<aprice>1.99</aprice>
+				<adescription>ButtonBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat5.png</aimageUrl>
+				<aname>Penta</aname>
+				<aId>A0015</aId>
+				<aprice>1.99</aprice>
+				<adescription>Battery</adescription>   
+			</accessory> 
+			<accessory>
+				<aimageUrl>images/bat6.png</aimageUrl>
+				<aname>Panasonic</aname>
+				<aId>A0016</aId>
+				<aprice>1.99</aprice>
+				<adescription>PhoneBatteries</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="TV992">
+        <imageUrl>images/smartwatch2.png</imageUrl>
+        <name>Sony</name>        
+        <price>150.99</price>
+		<description>Smart Watch</description>
+		<displayUnder>smartwatchproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/bat1.png</aimageUrl>
+				<aname>Celron</aname>
+				<aId>A0011</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat2.png</aimageUrl>
+				<aname>CelronUltra</aname>
+				<aId>A0012</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat3.png</aimageUrl>
+				<aname>CelronDigi</aname>
+				<aId>A0013</aId>
+				<aprice>1.99</aprice>
+				<adescription>WatchBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat4.png</aimageUrl>
+				<aname>Sony</aname>
+				<aId>A0014</aId>
+				<aprice>1.99</aprice>
+				<adescription>ButtonBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat5.png</aimageUrl>
+				<aname>Penta</aname>
+				<aId>A0015</aId>
+				<aprice>1.99</aprice>
+				<adescription>Battery</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat6.png</aimageUrl>
+				<aname>Panasonic</aname>
+				<aId>A0016</aId>
+				<aprice>1.99</aprice>
+				<adescription>PhoneBatteries</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="TV993">
+        <imageUrl>images/smartwatch3.png</imageUrl>
+        <name>Fastrack</name>        
+        <price>159.99</price>
+		<description>Digi Watch</description>
+		<displayUnder>smartwatchproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/bat1.png</aimageUrl>
+				<aname>Celron</aname>
+				<aId>A0011</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat2.png</aimageUrl>
+				<aname>CelronUltra</aname>
+				<aId>A0012</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat3.png</aimageUrl>
+				<aname>CelronDigi</aname>
+				<aId>A0013</aId>
+				<aprice>1.99</aprice>
+				<adescription>WatchBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat4.png</aimageUrl>
+				<aname>Sony</aname>
+				<aId>A0014</aId>
+				<aprice>1.99</aprice>
+				<adescription>ButtonBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat5.png</aimageUrl>
+				<aname>Penta</aname>
+				<aId>A0015</aId>
+				<aprice>1.99</aprice>
+				<adescription>Battery</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat6.png</aimageUrl>
+				<aname>Panasonic</aname>
+				<aId>A0016</aId>
+				<aprice>1.99</aprice>
+				<adescription>PhoneBatteries</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="TV994">
+        <imageUrl>images/smartwatch4.png</imageUrl>
+        <name>Rado</name>        
+        <price>899.99</price>
+		<description>Digi Watch</description>
+		<displayUnder>smartwatchproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/bat1.png</aimageUrl>
+				<aname>Celron</aname>
+				<aId>A0011</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat2.png</aimageUrl>
+				<aname>CelronUltra</aname>
+				<aId>A0012</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat3.png</aimageUrl>
+				<aname>CelronDigi</aname>
+				<aId>A0013</aId>
+				<aprice>1.99</aprice>
+				<adescription>WatchBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat4.png</aimageUrl>
+				<aname>Sony</aname>
+				<aId>A0014</aId>
+				<aprice>1.99</aprice>
+				<adescription>ButtonBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat5.png</aimageUrl>
+				<aname>Penta</aname>
+				<aId>A0015</aId>
+				<aprice>1.99</aprice>
+				<adescription>Battery</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat6.png</aimageUrl>
+				<aname>Panasonic</aname>
+				<aId>A0016</aId>
+				<aprice>1.99</aprice>
+				<adescription>PhoneBatteries</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="TV995">
+        <imageUrl>images/smartwatch5.png</imageUrl>
+        <name>Swiss</name>        
+        <price>699.99</price>
+		<description>Digi Watch</description>
+		<displayUnder>smartwatchproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/bat1.png</aimageUrl>
+				<aname>Celron</aname>
+				<aId>A0011</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat2.png</aimageUrl>
+				<aname>CelronUltra</aname>
+				<aId>A0012</aId>
+				<aprice>1.99</aprice>
+				<adescription>Batteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat3.png</aimageUrl>
+				<aname>CelronDigi</aname>
+				<aId>A0013</aId>
+				<aprice>1.99</aprice>
+				<adescription>WatchBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat4.png</aimageUrl>
+				<aname>Sony</aname>
+				<aId>A0014</aId>
+				<aprice>1.99</aprice>
+				<adescription>ButtonBatteries</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat5.png</aimageUrl>
+				<aname>Penta</aname>
+				<aId>A0015</aId>
+				<aprice>1.99</aprice>
+				<adescription>Battery</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/bat6.png</aimageUrl>
+				<aname>Panasonic</aname>
+				<aId>A0016</aId>
+				<aprice>1.99</aprice>
+				<adescription>PhoneBatteries</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+<!-- Speaker products -->
+	
+	<product id="TAB91">
+        <imageUrl>images/speakers.jpg</imageUrl>
+        <name>Poineer</name>        
+        <price>699.99</price>
+		<description>Speakers</description>
+		<displayUnder>speakerproducts</displayUnder>
+		<discounAmt>0.0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speaker1.jpg</aimageUrl>
+				<aname>Adaptar Bose</aname>
+				<aId>T2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>HDMI Adapter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker2.jpg</aimageUrl>
+				<aname>Cover</aname>
+				<aId>T2222</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker3.jpg</aimageUrl>
+				<aname>Winsor caps</aname>
+				<aId>T2223</aId>
+				<aprice>55.99</aprice>
+				<adescription>Caps</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker4.jpg</aimageUrl>
+				<aname>Poineer woofer</aname>
+				<aId>T2224</aId>
+				<aprice>19.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker5.jpg</aimageUrl>
+				<aname>Amazon Wofer</aname>
+				<aId>T2225</aId>
+				<aprice>3.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker6.jpg</aimageUrl>
+				<aname>Speaker Holder</aname>
+				<aId>T2226</aId>
+				<aprice>85.99</aprice>
+				<adescription>Holder</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker7.jpg</aimageUrl>
+				<aname>StandSet</aname>
+				<aId>T2227</aId>
+				<aprice>12.99</aprice>
+				<adescription>Stand set with Adapter</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="TAB92">
+        <imageUrl>images/speakers1.jpg</imageUrl>
+        <name>BOSE</name>        
+        <price>199.99</price>
+		<description>Speakers</description>
+		<displayUnder>speakerproducts</displayUnder>
+		<discounAmt>0.0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speaker1.jpg</aimageUrl>
+				<aname>Adaptar Bose</aname>
+				<aId>T2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>HDMI Adapter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker2.jpg</aimageUrl>
+				<aname>Cover</aname>
+				<aId>T2222</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker3.jpg</aimageUrl>
+				<aname>Winsor caps</aname>
+				<aId>T2223</aId>
+				<aprice>55.99</aprice>
+				<adescription>Caps</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker4.jpg</aimageUrl>
+				<aname>Poineer woofer</aname>
+				<aId>T2224</aId>
+				<aprice>19.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker5.jpg</aimageUrl>
+				<aname>Amazon Wofer</aname>
+				<aId>T2225</aId>
+				<aprice>3.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker6.jpg</aimageUrl>
+				<aname>Speaker Holder</aname>
+				<aId>T2226</aId>
+				<aprice>85.99</aprice>
+				<adescription>Holder</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker7.jpg</aimageUrl>
+				<aname>StandSet</aname>
+				<aId>T2227</aId>
+				<aprice>12.99</aprice>
+				<adescription>Stand set with Adapter</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="TAB93">
+        <imageUrl>images/speakers2.jpg</imageUrl>
+        <name>JBL</name>        
+        <price>639.99</price>
+		<description>Speakers</description>
+		<displayUnder>speakerproducts</displayUnder>
+		<discounAmt>0.0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speaker1.jpg</aimageUrl>
+				<aname>Adaptar Bose</aname>
+				<aId>T2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>HDMI Adapter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker2.jpg</aimageUrl>
+				<aname>Cover</aname>
+				<aId>T2222</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker3.jpg</aimageUrl>
+				<aname>Winsor caps</aname>
+				<aId>T2223</aId>
+				<aprice>55.99</aprice>
+				<adescription>Caps</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker4.jpg</aimageUrl>
+				<aname>Poineer woofer</aname>
+				<aId>T2224</aId>
+				<aprice>19.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker5.jpg</aimageUrl>
+				<aname>Amazon Wofer</aname>
+				<aId>T2225</aId>
+				<aprice>3.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker6.jpg</aimageUrl>
+				<aname>Speaker Holder</aname>
+				<aId>T2226</aId>
+				<aprice>85.99</aprice>
+				<adescription>Holder</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker7.jpg</aimageUrl>
+				<aname>StandSet</aname>
+				<aId>T2227</aId>
+				<aprice>12.99</aprice>
+				<adescription>Stand set with Adapter</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	
+	<product id="TAB94">
+        <imageUrl>images/speakers3.jpg</imageUrl>
+        <name>Philips</name>        
+        <price>99.99</price>
+		<description>Speakers</description>
+		<displayUnder>speakerproducts</displayUnder>
+		<discounAmt>0.0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speaker1.jpg</aimageUrl>
+				<aname>Adaptar Bose</aname>
+				<aId>T2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>HDMI Adapter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker2.jpg</aimageUrl>
+				<aname>Cover</aname>
+				<aId>T2222</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker3.jpg</aimageUrl>
+				<aname>Winsor caps</aname>
+				<aId>T2223</aId>
+				<aprice>55.99</aprice>
+				<adescription>Caps</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker4.jpg</aimageUrl>
+				<aname>Poineer woofer</aname>
+				<aId>T2224</aId>
+				<aprice>19.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker5.jpg</aimageUrl>
+				<aname>Amazon Wofer</aname>
+				<aId>T2225</aId>
+				<aprice>3.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker6.jpg</aimageUrl>
+				<aname>Speaker Holder</aname>
+				<aId>T2226</aId>
+				<aprice>85.99</aprice>
+				<adescription>Holder</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker7.jpg</aimageUrl>
+				<aname>StandSet</aname>
+				<aId>T2227</aId>
+				<aprice>12.99</aprice>
+				<adescription>Stand set with Adapter</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="TAB95">
+        <imageUrl>images/speakers4.jpg</imageUrl>
+        <name>Windsor</name>        
+        <price>59.99</price>
+		<description>Speakers</description>
+		<displayUnder>speakerproducts</displayUnder>
+		<discounAmt>0.0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speaker1.jpg</aimageUrl>
+				<aname>Adaptar Bose</aname>
+				<aId>T2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>HDMI Adapter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker2.jpg</aimageUrl>
+				<aname>Cover</aname>
+				<aId>T2222</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker3.jpg</aimageUrl>
+				<aname>Winsor caps</aname>
+				<aId>T2223</aId>
+				<aprice>55.99</aprice>
+				<adescription>Caps</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker4.jpg</aimageUrl>
+				<aname>Poineer woofer</aname>
+				<aId>T2224</aId>
+				<aprice>19.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker5.jpg</aimageUrl>
+				<aname>Amazon Wofer</aname>
+				<aId>T2225</aId>
+				<aprice>3.99</aprice>
+				<adescription>HDMI woofer</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker6.jpg</aimageUrl>
+				<aname>Speaker Holder</aname>
+				<aId>T2226</aId>
+				<aprice>85.99</aprice>
+				<adescription>Holder</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speaker7.jpg</aimageUrl>
+				<aname>StandSet</aname>
+				<aId>T2227</aId>
+				<aprice>12.99</aprice>
+				<adescription>Stand set with Adapter</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+<!--headphoneproducts-->	
+	
+	
+	<product id="LAP91">
+        <imageUrl>images/headphone.png</imageUrl>
+        <name>Scull Candy</name>        
+        <price>199.99</price>
+		<description>Head Phones</description>
+		<displayUnder>headphoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speak1.jpg</aimageUrl>
+				<aname>Scull Candy</aname>
+				<aId>L2221</aId>
+				<aprice>44.99</aprice>
+				<adescription>Bud</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak2.jpg</aimageUrl>
+				<aname>Poineer</aname>
+				<aId>L2222</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak4.jpg</aimageUrl>
+				<aname>Beetle</aname>
+				<aId>L2224</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak5.jpg</aimageUrl>
+				<aname>Philips</aname>
+				<aId>L2225</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak6.jpg</aimageUrl>
+				<aname>Maax</aname>
+				<aId>L2226</aId>
+				<aprice>44.99</aprice>
+				<adescription>jack</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2227</aId>
+				<aprice>44.99</aprice>
+				<adescription>AUX</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="LAP92">
+        <imageUrl>images/headphone1.png</imageUrl>
+        <name>Scull Candy</name>        
+        <price>99.99</price>
+		<description>Head Phones Digi Sound</description>
+		<displayUnder>headphoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speak1.jpg</aimageUrl>
+				<aname>Scull Candy</aname>
+				<aId>L2221</aId>
+				<aprice>44.99</aprice>
+				<adescription>Bud</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak2.jpg</aimageUrl>
+				<aname>Poineer</aname>
+				<aId>L2222</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak4.jpg</aimageUrl>
+				<aname>Beetle</aname>
+				<aId>L2224</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak5.jpg</aimageUrl>
+				<aname>Philips</aname>
+				<aId>L2225</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak6.jpg</aimageUrl>
+				<aname>Maax</aname>
+				<aId>L2226</aId>
+				<aprice>44.99</aprice>
+				<adescription>jack</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2227</aId>
+				<aprice>44.99</aprice>
+				<adescription>AUX</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="LAP93">
+        <imageUrl>images/headphone2.png</imageUrl>
+        <name>Senhizer</name>        
+        <price>59.99</price>
+		<description>Head Phones Digi Sound</description>
+		<displayUnder>headphoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speak1.jpg</aimageUrl>
+				<aname>Scull Candy</aname>
+				<aId>L2221</aId>
+				<aprice>44.99</aprice>
+				<adescription>Bud</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak2.jpg</aimageUrl>
+				<aname>Poineer</aname>
+				<aId>L2222</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak4.jpg</aimageUrl>
+				<aname>Beetle</aname>
+				<aId>L2224</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak5.jpg</aimageUrl>
+				<aname>Philips</aname>
+				<aId>L2225</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak6.jpg</aimageUrl>
+				<aname>Maax</aname>
+				<aId>L2226</aId>
+				<aprice>44.99</aprice>
+				<adescription>jack</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2227</aId>
+				<aprice>44.99</aprice>
+				<adescription>AUX</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="LAP94">
+        <imageUrl>images/headphone3.png</imageUrl>
+        <name>Philips</name>        
+        <price>89.99</price>
+		<description>Head Phones Digi Sound</description>
+		<displayUnder>headphoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speak1.jpg</aimageUrl>
+				<aname>Scull Candy</aname>
+				<aId>L2221</aId>
+				<aprice>44.99</aprice>
+				<adescription>Bud</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak2.jpg</aimageUrl>
+				<aname>Poineer</aname>
+				<aId>L2222</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak4.jpg</aimageUrl>
+				<aname>Beetle</aname>
+				<aId>L2224</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak5.jpg</aimageUrl>
+				<aname>Philips</aname>
+				<aId>L2225</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak6.jpg</aimageUrl>
+				<aname>Maax</aname>
+				<aId>L2226</aId>
+				<aprice>44.99</aprice>
+				<adescription>jack</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2227</aId>
+				<aprice>44.99</aprice>
+				<adescription>AUX</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="LAP95">
+        <imageUrl>images/headphone4.png</imageUrl>
+        <name>Philips</name>        
+        <price>89.99</price>
+		<description>Head Phones Digi Sound</description>
+		<displayUnder>headphoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/speak1.jpg</aimageUrl>
+				<aname>Scull Candy</aname>
+				<aId>L2221</aId>
+				<aprice>44.99</aprice>
+				<adescription>Bud</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak2.jpg</aimageUrl>
+				<aname>Poineer</aname>
+				<aId>L2222</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak4.jpg</aimageUrl>
+				<aname>Beetle</aname>
+				<aId>L2224</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak5.jpg</aimageUrl>
+				<aname>Philips</aname>
+				<aId>L2225</aId>
+				<aprice>44.99</aprice>
+				<adescription>plugs and buds</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak6.jpg</aimageUrl>
+				<aname>Maax</aname>
+				<aId>L2226</aId>
+				<aprice>44.99</aprice>
+				<adescription>jack</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/speak7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2227</aId>
+				<aprice>44.99</aprice>
+				<adescription>AUX</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+<!--smartphoneProducts-->
+	
+	
+	<product id="SMP91">
+        <imageUrl>images/phone.png</imageUrl>
+        <name>Sony</name>        
+        <price>200.99</price>
+		<description>Smartphone</description>
+		<displayUnder>phoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/phoneax1.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>L2221</aId>
+				<aprice>22.99</aprice>
+				<adescription>cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax2.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2222</aId>
+				<aprice>33.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>11.99</aprice>
+				<adescription>USB cable</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax4.jpg</aimageUrl>
+				<aname>Oppo</aname>
+				<aId>L2224</aId>
+				<aprice>33.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax5.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>L2225</aId>
+				<aprice>77.99</aprice>
+				<adescription>Power Adaopter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax6.jpg</aimageUrl>
+				<aname>Lava</aname>
+				<aId>L2226</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax7.jpg</aimageUrl>
+				<aname>Zeus</aname>
+				<aId>L2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>	
+        </accessories>
+    </product>
+	
+	
+	
+	<product id="SMP92">
+        <imageUrl>images/phone1.png</imageUrl>
+        <name>Lenovo</name>        
+        <price>180.99</price>
+		<description>Smartphone</description>
+		<displayUnder>phoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/phoneax1.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>L2221</aId>
+				<aprice>22.99</aprice>
+				<adescription>cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax2.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2222</aId>
+				<aprice>33.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>11.99</aprice>
+				<adescription>USB cable</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax4.jpg</aimageUrl>
+				<aname>Oppo</aname>
+				<aId>L2224</aId>
+				<aprice>33.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax5.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>L2225</aId>
+				<aprice>77.99</aprice>
+				<adescription>Power Adaopter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax6.jpg</aimageUrl>
+				<aname>Lava</aname>
+				<aId>L2226</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax7.jpg</aimageUrl>
+				<aname>Zeus</aname>
+				<aId>L2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>	
+        </accessories>
+    </product>
+	
+	
+	<product id="SMP93">
+       <imageUrl>images/phone2.png</imageUrl>
+        <name>Samsung</name>        
+        <price>180.99</price>
+		<description>Smartphone</description>
+		<displayUnder>phoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/phoneax1.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>L2221</aId>
+				<aprice>22.99</aprice>
+				<adescription>cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax2.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2222</aId>
+				<aprice>33.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>11.99</aprice>
+				<adescription>USB cable</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax4.jpg</aimageUrl>
+				<aname>Oppo</aname>
+				<aId>L2224</aId>
+				<aprice>33.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax5.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>L2225</aId>
+				<aprice>77.99</aprice>
+				<adescription>Power Adaopter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax6.jpg</aimageUrl>
+				<aname>Lava</aname>
+				<aId>L2226</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax7.jpg</aimageUrl>
+				<aname>Zeus</aname>
+				<aId>L2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>	
+        </accessories>
+    </product>
+	
+	<product id="SMP94">
+        <imageUrl>images/phone3.png</imageUrl>
+        <name>Motorola</name>        
+        <price>79.99</price>
+		<description>Smartphone</description>
+		<displayUnder>phoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/phoneax1.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>L2221</aId>
+				<aprice>22.99</aprice>
+				<adescription>cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax2.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2222</aId>
+				<aprice>33.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>11.99</aprice>
+				<adescription>USB cable</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax4.jpg</aimageUrl>
+				<aname>Oppo</aname>
+				<aId>L2224</aId>
+				<aprice>33.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax5.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>L2225</aId>
+				<aprice>77.99</aprice>
+				<adescription>Power Adaopter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax6.jpg</aimageUrl>
+				<aname>Lava</aname>
+				<aId>L2226</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax7.jpg</aimageUrl>
+				<aname>Zeus</aname>
+				<aId>L2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>	
+        </accessories>
+    </product>
+	
+	<product id="SMP95">
+        <imageUrl>images/phone4.png</imageUrl>
+        <name>Oppo</name>        
+        <price>69.99</price>
+		<description>Smartphone</description>
+		<displayUnder>phoneproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/phoneax1.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>L2221</aId>
+				<aprice>22.99</aprice>
+				<adescription>cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax2.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>L2222</aId>
+				<aprice>33.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax3.jpg</aimageUrl>
+				<aname>Sony</aname>
+				<aId>L2223</aId>
+				<aprice>11.99</aprice>
+				<adescription>USB cable</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax4.jpg</aimageUrl>
+				<aname>Oppo</aname>
+				<aId>L2224</aId>
+				<aprice>33.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax5.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>L2225</aId>
+				<aprice>77.99</aprice>
+				<adescription>Power Adaopter</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax6.jpg</aimageUrl>
+				<aname>Lava</aname>
+				<aId>L2226</aId>
+				<aprice>23.99</aprice>
+				<adescription>Cover</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/phoneax7.jpg</aimageUrl>
+				<aname>Zeus</aname>
+				<aId>L2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>	
+        </accessories>
+    </product>
+   
+ <!--laptop category-->
+ 
+ 	<product id="TOP91">
+        <imageUrl>images/laptop.jpg</imageUrl>
+        <name>Lenovo</name>        
+        <price>749.99</price>
+		<description>Laptop</description>	
+		<displayUnder>laptopproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/lappy1.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2221</aId>
+				<aprice>129.99</aprice>
+				<adescription>desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy2.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>S2222</aId>
+				<aprice>20.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy3.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>S2223</aId>
+				<aprice>96.99</aprice>
+				<adescription>Desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy4.jpg</aimageUrl>
+				<aname>Ideal</aname>
+				<aId>S2224</aId>
+				<aprice>34.99</aprice>
+				<adescription>Pillow stand</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy5.jpg</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>23.99</aprice>
+				<adescription>Coolong case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy6.jpg</aimageUrl>
+				<aname>Dell</aname>
+				<aId>S2226</aId>
+				<aprice>76.99</aprice>
+				<adescription>Desk with clip</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Multimedia lap desk</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="TOP92">
+        <imageUrl>images/laptop1.jpg</imageUrl>
+        <name>HP</name>        
+        <price>1749.99</price>
+		<description>Laptop</description>	
+		<displayUnder>laptopproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/lappy1.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2221</aId>
+				<aprice>129.99</aprice>
+				<adescription>desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy2.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>S2222</aId>
+				<aprice>20.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy3.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>S2223</aId>
+				<aprice>96.99</aprice>
+				<adescription>Desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy4.jpg</aimageUrl>
+				<aname>Ideal</aname>
+				<aId>S2224</aId>
+				<aprice>34.99</aprice>
+				<adescription>Pillow stand</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy5.jpg</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>23.99</aprice>
+				<adescription>Coolong case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy6.jpg</aimageUrl>
+				<aname>Dell</aname>
+				<aId>S2226</aId>
+				<aprice>76.99</aprice>
+				<adescription>Desk with clip</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Multimedia lap desk</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="TOP93">
+        <imageUrl>images/laptop2.jpg</imageUrl>
+        <name>Dell</name>        
+        <price>999.99</price>
+		<description>Laptop</description>	
+		<displayUnder>laptopproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/lappy1.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2221</aId>
+				<aprice>129.99</aprice>
+				<adescription>desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy2.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>S2222</aId>
+				<aprice>20.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy3.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>S2223</aId>
+				<aprice>96.99</aprice>
+				<adescription>Desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy4.jpg</aimageUrl>
+				<aname>Ideal</aname>
+				<aId>S2224</aId>
+				<aprice>34.99</aprice>
+				<adescription>Pillow stand</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy5.jpg</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>23.99</aprice>
+				<adescription>Coolong case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy6.jpg</aimageUrl>
+				<aname>Dell</aname>
+				<aId>S2226</aId>
+				<aprice>76.99</aprice>
+				<adescription>Desk with clip</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Multimedia lap desk</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="TOP94">
+        <imageUrl>images/laptop3.jpg</imageUrl>
+        <name>ASUS</name>        
+        <price>749.99</price>
+		<description>Laptop</description>	
+		<displayUnder>laptopproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/lappy1.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2221</aId>
+				<aprice>129.99</aprice>
+				<adescription>desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy2.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>S2222</aId>
+				<aprice>20.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy3.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>S2223</aId>
+				<aprice>96.99</aprice>
+				<adescription>Desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy4.jpg</aimageUrl>
+				<aname>Ideal</aname>
+				<aId>S2224</aId>
+				<aprice>34.99</aprice>
+				<adescription>Pillow stand</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy5.jpg</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>23.99</aprice>
+				<adescription>Coolong case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy6.jpg</aimageUrl>
+				<aname>Dell</aname>
+				<aId>S2226</aId>
+				<aprice>76.99</aprice>
+				<adescription>Desk with clip</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Multimedia lap desk</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="TOP95">
+        <imageUrl>images/laptop4.jpg</imageUrl>
+        <name>Microsoft</name>        
+        <price>1449.99</price>
+		<description>Laptop</description>	
+		<displayUnder>laptopproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/lappy1.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2221</aId>
+				<aprice>129.99</aprice>
+				<adescription>desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy2.jpg</aimageUrl>
+				<aname>Samsung</aname>
+				<aId>S2222</aId>
+				<aprice>20.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy3.jpg</aimageUrl>
+				<aname>Lenovo</aname>
+				<aId>S2223</aId>
+				<aprice>96.99</aprice>
+				<adescription>Desk</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy4.jpg</aimageUrl>
+				<aname>Ideal</aname>
+				<aId>S2224</aId>
+				<aprice>34.99</aprice>
+				<adescription>Pillow stand</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy5.jpg</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>23.99</aprice>
+				<adescription>Coolong case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy6.jpg</aimageUrl>
+				<aname>Dell</aname>
+				<aId>S2226</aId>
+				<aprice>76.99</aprice>
+				<adescription>Desk with clip</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/lappy7.jpg</aimageUrl>
+				<aname>Apple</aname>
+				<aId>S2227</aId>
+				<aprice>23.99</aprice>
+				<adescription>Multimedia lap desk</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+   
+ <!--External storage category-->
+ 
+ 	<product id="EXT91">
+        <imageUrl>images/external.png</imageUrl>
+        <name>Thoshiba</name>        
+        <price>179.99</price>
+		<description>HDD</description>	
+		<displayUnder>storageproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/ext1.png</aimageUrl>
+				<aname>Case</aname>
+				<aId>S2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>Plastic case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext2.png</aimageUrl>
+				<aname>Cover</aname>
+				<aId>S2222</aId>
+				<aprice>21.99</aprice>
+				<adescription>Black cover inner</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext3.png</aimageUrl>
+				<aname>Box</aname>
+				<aId>S2223</aId>
+				<aprice>19.99</aprice>
+				<adescription>Hard box</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext4.png</aimageUrl>
+				<aname>Transcent</aname>
+				<aId>S2224</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext5.png</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>63</aprice>
+				<adescription>drive case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext6.png</aimageUrl>
+				<aname>Kingston</aname>
+				<aId>S2226</aId>
+				<aprice>89.99</aprice>
+				<adescription>wires</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext7.png</aimageUrl>
+				<aname>Sandisc</aname>
+				<aId>S2227</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="EXT92">
+        <imageUrl>images/external1.png</imageUrl>
+        <name>DELL</name>        
+        <price>179.99</price>
+		<description>HDD</description>	
+		<displayUnder>storageproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/ext1.png</aimageUrl>
+				<aname>Case</aname>
+				<aId>S2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>Plastic case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext2.png</aimageUrl>
+				<aname>Cover</aname>
+				<aId>S2222</aId>
+				<aprice>21.99</aprice>
+				<adescription>Black cover inner</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext3.png</aimageUrl>
+				<aname>Box</aname>
+				<aId>S2223</aId>
+				<aprice>19.99</aprice>
+				<adescription>Hard box</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext4.png</aimageUrl>
+				<aname>Transcent</aname>
+				<aId>S2224</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext5.png</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>63</aprice>
+				<adescription>drive case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext6.png</aimageUrl>
+				<aname>Kingston</aname>
+				<aId>S2226</aId>
+				<aprice>89.99</aprice>
+				<adescription>wires</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext7.png</aimageUrl>
+				<aname>Sandisc</aname>
+				<aId>S2227</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	
+	<product id="EXT93">
+        <imageUrl>images/external2.png</imageUrl>
+        <name>Kingston</name>        
+        <price>79.99</price>
+		<description>HDD</description>	
+		<displayUnder>storageproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/ext1.png</aimageUrl>
+				<aname>Case</aname>
+				<aId>S2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>Plastic case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext2.png</aimageUrl>
+				<aname>Cover</aname>
+				<aId>S2222</aId>
+				<aprice>21.99</aprice>
+				<adescription>Black cover inner</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext3.png</aimageUrl>
+				<aname>Box</aname>
+				<aId>S2223</aId>
+				<aprice>19.99</aprice>
+				<adescription>Hard box</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext4.png</aimageUrl>
+				<aname>Transcent</aname>
+				<aId>S2224</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext5.png</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>63</aprice>
+				<adescription>drive case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext6.png</aimageUrl>
+				<aname>Kingston</aname>
+				<aId>S2226</aId>
+				<aprice>89.99</aprice>
+				<adescription>wires</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext7.png</aimageUrl>
+				<aname>Sandisc</aname>
+				<aId>S2227</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="EXT94">
+        <imageUrl>images/external3.png</imageUrl>
+        <name>Segate</name>        
+        <price>89.99</price>
+		<description>Titan 32GB</description>
+		<displayUnder>storageproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/ext1.png</aimageUrl>
+				<aname>Case</aname>
+				<aId>S2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>Plastic case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext2.png</aimageUrl>
+				<aname>Cover</aname>
+				<aId>S2222</aId>
+				<aprice>21.99</aprice>
+				<adescription>Black cover inner</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext3.png</aimageUrl>
+				<aname>Box</aname>
+				<aId>S2223</aId>
+				<aprice>19.99</aprice>
+				<adescription>Hard box</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext4.png</aimageUrl>
+				<aname>Transcent</aname>
+				<aId>S2224</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext5.png</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>63</aprice>
+				<adescription>drive case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext6.png</aimageUrl>
+				<aname>Kingston</aname>
+				<aId>S2226</aId>
+				<aprice>89.99</aprice>
+				<adescription>wires</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext7.png</aimageUrl>
+				<aname>Sandisc</aname>
+				<aId>S2227</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+	
+	<product id="EXT95">
+        <imageUrl>images/external4.png</imageUrl>
+        <name>HP</name>        
+        <price>99.99</price>
+		<description>10 4G Lite 32GB</description>
+		<displayUnder>storageproducts</displayUnder>
+		<discounAmt>0</discounAmt>
+		<rebateAmt>0.0</rebateAmt>   
+        <accessories>
+            <accessory>
+				<aimageUrl>images/ext1.png</aimageUrl>
+				<aname>Case</aname>
+				<aId>S2221</aId>
+				<aprice>29.99</aprice>
+				<adescription>Plastic case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext2.png</aimageUrl>
+				<aname>Cover</aname>
+				<aId>S2222</aId>
+				<aprice>21.99</aprice>
+				<adescription>Black cover inner</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext3.png</aimageUrl>
+				<aname>Box</aname>
+				<aId>S2223</aId>
+				<aprice>19.99</aprice>
+				<adescription>Hard box</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext4.png</aimageUrl>
+				<aname>Transcent</aname>
+				<aId>S2224</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext5.png</aimageUrl>
+				<aname>HP</aname>
+				<aId>S2225</aId>
+				<aprice>63</aprice>
+				<adescription>drive case</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext6.png</aimageUrl>
+				<aname>Kingston</aname>
+				<aId>S2226</aId>
+				<aprice>89.99</aprice>
+				<adescription>wires</adescription>   
+			</accessory>
+			<accessory>
+				<aimageUrl>images/ext7.png</aimageUrl>
+				<aname>Sandisc</aname>
+				<aId>S2227</aId>
+				<aprice>29.99</aprice>
+				<adescription>Case</adescription>   
+			</accessory>
+        </accessories>
+    </product>
+   
+ 
+ 
+ 
+ 
+</ProductCatalog>

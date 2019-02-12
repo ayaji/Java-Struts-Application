@@ -1,0 +1,281 @@
+<!doctype html>
+<html>
+<head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Smart Portables</title>
+      <link rel="stylesheet" href="index_style.css" type="text/css" />
+   
+   </head>
+   <body>
+
+      <div id="container">
+      <header>
+         <h1 align="left">
+			   <div id="header">
+<h1><b><i><a href="Index.html" style="color:#D54A1E">Smart Portables</a></h1>
+<h2 align="left"><font  color="#D5871E" ><b><i>World's best gadget store...</i></b></font><br></h2>
+</div>
+            </h1>
+            
+            <div style="color:#F6CD71">,
+               <form id="searchbox" action="">
+                  <input class="search_input" id="search" type="text" placeholder="Search products and more..." onkeyup="doCompletion(this.value)">
+				  
+                  <input id="submit" type="submit" value="Search" class="searchbutton">
+                  <ul class="navigation">
+                     <li >
+                        <a href="" style="width: 90px; text-align: center;">Log In&nbsp;<img  src="images/arrowdown.png" width="18px" height="13px"/></a>
+                        <ul>
+                           <li><a href="login.html">Log In</a></li>
+                           <li><a href="login.html">Orders</a></li>
+                           <br>
+                        </ul>
+                     </li>
+                     <li >
+                        <a href="" style="width: 90px; text-align: center;">Cart&nbsp;<img  src="images/add-shopping-cart.png" width="18px" height="13px"/></a>
+                     </li>
+                     
+                  </ul>
+               </form>
+            </div>
+         </header>
+         <br>
+         <nav>
+            <ul>
+               
+			  
+		<li class="mainmenu"><a href="smartwatchproducts">Smart Watches</a></li>
+		<li class="mainmenu"><a href="fitnessproducts">Fitness Watches</a></li>
+		<li class="mainmenu"><a href="headphoneproducts">Headphones</a></li>
+	<li class="mainmenu"><a href="virtualrealityproducts">Virtual Reality</a></li>
+		<li class="mainmenu"><a href="pettracker">Pet Trackers</a></li>
+        <li class="mainmenu"><a href="phoneproducts">Phones</a></li>
+        <li class="mainmenu"><a href="laptopproducts">Laptops</a></li>
+        <li class="mainmenu"><a href="speakerproducts">Smart Speakers</a></li>
+               
+			   
+            </ul>
+         </nav>
+         <br>
+		 	
+			 <aside class="sidebar">
+				<ul>
+				   <li>
+					  <h4>Products</h4>
+					  <ul>
+						 <li><a href="smartwatchproducts">Smart Watches</a></li>
+						 <li><a href="fitnessproducts">Fitness Watches</a></li>
+						 <li><a href="headphoneproducts">Headphones</a></li>
+						 <li><a href="virtualrealityproducts">Virtual Reality</a></li>
+						 <li><a href="pettracker">Pet Trackers</a></li>
+				   <li><a href="phoneproducts">Phones</a></li>
+				   <li><a href="laptopproducts">Laptops</a></li>
+				   <li><a href="speakerproducts">Smart Speakers</a></li>
+					  </ul>
+				   </li>
+				   <li>
+					  <h4>Accessories</h4>
+					  <ul>
+				   <li><a href="accessoryinformation?product_id=TV991">Smart Watch Accessories</a></li>
+				   <li><a href="accessoryinformation?product_id=TV991">Fitness Watch Accessories</a></li>
+				   <li><a href="accessoryinformation?product_id=TV991">Headphones
+				   Accessories</a></li>
+				   <li><a href="accessoryinformation?product_id=TV991">Virtual Reality</a></li>
+				   <li><a href="accessoryinformation?product_id=TV991">Pet Tracker Accessories</a></li>
+				   <li><a href="accessoryinformation?product_id=SMP91">Phone Accessories</a></li>
+				   <li><a href="accessoryinformation?product_id=TOP91">Laptop Accessories</a></li>
+				   <li><a href="accessoryinformation?product_id=TAB91">Smart Speaker Accessories</a></li>
+					  </ul>
+				   </li>
+				</ul>
+			 </aside>
+		 
+		 
+		 
+		 
+<br/> 
+<section id="content" align="right" > 
+<div class="shopping-cart">
+<table style="width: 100%">
+<tr>
+<td>
+<h1>Enter Checkout Details</h1>
+</td>
+</tr>
+</table>
+</div>
+ <!--<form action="storeAddressAndCreditCardInfo"  method="post">-->
+ <form action="addorderdetails"  method="post">
+ <table style="width:60%;margin-left: 50px ">
+  <tr>
+ <th colspan="2">
+ 
+ </th>
+ </tr>
+ <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>First Name<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="first_name" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+  <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>Last Name<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="last_name" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+  <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>Address 1<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="address1" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+  
+  <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>City<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="city" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+  <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>State<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="state" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+   <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>Zip/Postal<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="zipcode" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+   <tr>
+ <td align="right">
+ <div class="shipping-input-fields">
+ <label>Phone Number<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="phone" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <th colspan="2">
+ Enter Card Details
+ </th>
+ </tr>
+ <tr>
+<td align="right">
+ <div class="shipping-input-fields">
+ <label>Name on card:<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="card_name" class="login-input" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+</tr>
+ <tr>
+<td align="right">
+ <div class="shipping-input-fields">
+ <label>Credit Card Number:<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="card_number" class="login-input" maxlength="16" style="width:250px; height:25px" required/>
+ </div>
+ </td>
+</tr>
+ <tr>
+<td align="right">
+ <div class="shipping-input-fields">
+ <label>Expiration Date:<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="month" placeholder="mm" class="login-input" style="width:50px; height:25px" required/> /  <input type="text" placeholder="yyyy" name="year" class="login-input" style="width:50px; height:25px" required/>
+ </div>
+ </td>
+</tr>
+<tr>
+<td align="right">
+ <div class="shipping-input-fields">
+ <label>CVV:<span style="color:blue">*</span> :</label>
+ </div>
+ </td>
+ <td>
+ <div class="shipping-input-fields">
+ <input type="text" name="securityCode" class="login-input" maxlength="16" style="width:50px; height:25px" required/>
+ </div>
+ </td>
+</tr>
+
+ <tr>
+ <td colspan="2" align="center">
+ <div>
+ <button class="sign-in-up-button" type="submit">Checkout</button>
+ </div>
+ </td>
+ </tr>
+ </table>
+ </form> 
+ </section> 
+ 
+ 
+ 
+
+<div class="clear"></div>	
+ <footer>
+         <div class="footer-bottom">
+            <p>Designed By: Aditya Yaji</p>
+<p>Contact information: <a href="mailto:someone@example.com">
+  ayaji@hawk.iit.edu</a>.</p>
+         </div>
+      </footer>
+
+</div>
+
+</body>
+
+</html>
